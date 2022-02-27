@@ -1,4 +1,4 @@
-# HTMLGenerator - Felos - compliments to BroCode
+# HTMLGenerator - Felos - code from BroCode
 # I learned a bit of HTML today and decided to commit this project, it generates an HTML file written from JAVA
 
 How to process the HTML file: 
